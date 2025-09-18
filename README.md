@@ -1,4 +1,5 @@
 💰 Smart Interest Calculator – Java System Design
+
 📌 Overview
 
 This project is a Java-based Smart Interest Calculator that goes beyond traditional formulas.
